@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/todolist-hooks/static/js/main.a3d4b6d5.chunk.js",
+    "main.js.map": "/todolist-hooks/static/js/main.a3d4b6d5.chunk.js.map",
+    "runtime-main.js": "/todolist-hooks/static/js/runtime-main.070f8c5e.js",
+    "runtime-main.js.map": "/todolist-hooks/static/js/runtime-main.070f8c5e.js.map",
+    "static/js/2.58d6b74a.chunk.js": "/todolist-hooks/static/js/2.58d6b74a.chunk.js",
+    "static/js/2.58d6b74a.chunk.js.map": "/todolist-hooks/static/js/2.58d6b74a.chunk.js.map",
+    "index.html": "/todolist-hooks/index.html",
+    "static/js/2.58d6b74a.chunk.js.LICENSE.txt": "/todolist-hooks/static/js/2.58d6b74a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.070f8c5e.js",
+    "static/js/2.58d6b74a.chunk.js",
+    "static/js/main.a3d4b6d5.chunk.js"
+  ]
+}
